@@ -1,5 +1,8 @@
 # Restaurant Courier Tracking Panel
 
+# Important Note
+This project is currently in its alpha version and is under development. While it is functional, it is not yet fully optimized for real-world restaurant usage. We recommend avoiding deployment in production environments until further testing and refinements are completed by the development team. 
+
 ## Description
 The Restaurant Courier Tracking Panel is a web-based solution designed for restaurants that want to efficiently manage their couriers and sales. This project addresses the need for lower commission costs compared to existing food delivery platforms, enabling restaurants to focus on direct phone orders while maintaining effective tracking systems.
 
